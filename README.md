@@ -24,8 +24,10 @@
 * За Windows: [следвайте стъпките тук](https://docs.flutter.dev/install/quick#:~:text=of%20your%20choice.-,Install%20and%20set%20up%20Flutter,-%23)
 * За Linux: [инсталирай предварителните пакети с тези команди](https://docs.flutter.dev/install/quick#:~:text=ChromeOS-,Download%20prerequisite%20software,-%23)
 
-Възможно е след инсталацията на Flutter и проверка с flutter doctor в терминала да получите две грешки. Тъй като няма да правим нито мобилно приложение, нито executable файл, можете да напишете следните две команди:
+Възможно е след инсталацията на Flutter и проверка с `flutter doctor` в терминала да получите две грешки. Тъй като няма да правим нито мобилно приложение, нито executable файл, можете да напишете следните две команди:
+
 `flutter config --no-enable-windows-desktop`
+
 `flutter config --no-enable-android`
 
 ## 4. Създаване на Fork и клониране на repository-то
