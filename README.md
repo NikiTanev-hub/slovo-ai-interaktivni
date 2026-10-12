@@ -13,6 +13,7 @@
 Във VSCode отваряте терминала с Ctrl+~ и там изпълнявате:
 * За Windows: `npm install -g firebase-tools`
 * За Linux: `sudo npm install -g firebase-tools`
+
 Накрая задължително проверявате с `firebase --version`
 
 2. Свързване към Google акаунт
