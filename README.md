@@ -11,12 +11,12 @@
 
 1. Инсталиране на Firebase през VSCode терминала
 Във VSCode отваряте терминала с Ctrl+~ и там изпълнявате:
-* За Windows: npm install -g firebase-tools
-* За Linux: sudo npm install -g firebase-tools
-Накрая задължително проверявате с firebase --version
+* За Windows: `npm install -g firebase-tools`
+* За Linux: `sudo npm install -g firebase-tools`
+Накрая задължително проверявате с `firebase --version`
 
 2. Свързване към Google акаунт
-В терминала на VSCode изпълнвате firebase login и се регистрирате с **ЛИЧНИТЕ СИ АКАУНТИ** (звършващи на @gmail.com)
+В терминала на VSCode изпълнвате `firebase login` и се регистрирате с **ЛИЧНИТЕ СИ АКАУНТИ** (звършващи на @gmail.com)
 
 ## 3. Инсталиране на Flutter SDK
 С Flutter ще разработваме потребителския интерфейс на приложението
